@@ -1,2 +1,2 @@
 # OpenMotionCapture
-Motion capture from webcam or video to 3D character
+Full body motion capture from webcam or video to 3D character.
